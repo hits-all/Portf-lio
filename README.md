@@ -1,4 +1,4 @@
-# 📚 Registro de Palestras (2024–2025)
+# 📚 Palestras (2024–2025)
 
 ---
 
