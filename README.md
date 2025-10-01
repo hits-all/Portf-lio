@@ -15,6 +15,10 @@
 - **07 de Maio de 2024**  
   🎤 **Palestra:** *Liderança e Gestão 3.0*
 
+- **18 de Junho de 2024**  
+  🎤 **Palestra:** *Explorando Homelabs: Como criar seu próprio ambiente de desenvolvimento pode transformar sua carreira em TI*  
+  👤 **Palestrantes:** Edmilson (Itix)
+     
 - **27 de Julho de 2024**  
   👤 **Palestrantes:** André Lopes e Tamiris Marciano (UNO)  
   🎤 **Palestra:** *Fluxo de Operações*
@@ -57,38 +61,6 @@
 - **05 de Novembro de 2024**  
   👤 **Palestrante:** Caio Mattos  
   🎤 **Palestra:** *A revolução da Web3 e propriedade digital*
-
-- **10 de Abril de 2025**  
-  👤 **Palestrante:** Tiago Baldo (Eduzz)  
-  🎤 **Palestra:** *Desafios do primeiro emprego em TI e como superá-los*
-
-- **16 de Abril de 2025**  
-  👤 **Palestrantes:** Matheus Dias, Tamires, Matheus Jorge, Raissa (ITIX)  
-  🎤 **Bate-papo Tech ITIX – “Carreira e Suporte na Prática”**
-
-- **23 de Abril de 2025**  
-  👤 **Palestrante:** Representante da EDUZZ  
-  🎤 **Palestra:** *LinkedIn e Marca Pessoal para Profissionais de TI*
-
-- **12 de Maio de 2025**  
-  👤 **Palestrante:** Professor Dilenardo Piva Júnior  
-  🎤 **Palestra:** *Inteligência Artificial*
-
-- **13 de Maio de 2025**  
-  👤 **Palestrante:** Luciana Ogusco (Eduzz)  
-  🎤 **Palestra:** *Empreendedorismo e Inovação na Tecnologia*
-
-- **20 de Agosto de 2025**  
-  👤 **Palestrante:** Representante Eduzz  
-  🎤 **Palestra:** *Produtividade e Organização no Dia a Dia*
-
-- **27 de Agosto de 2025**  
-  👤 **Palestrante:** Andrea Maria Fieri, Raissa Brito Miranda e Rafael Santos (Itix)  
-  🎤 **Palestra:** *Treinamento de banco de dados*
-
-- **03 de Setembro de 2025**  
-  👤 **Palestrante:** Guilherme Rodrigues Mattos  
-  🎤 **Palestra:** *Segurança de informação e Cibersegurança*
 
 ---
 
